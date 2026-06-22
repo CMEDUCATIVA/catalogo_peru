@@ -1,31 +1,17 @@
-# Peru Partner Pack para CMPROYECTOSBIM
+﻿# Catalogo de Recursos - Peru CAPECO
 
-Un solo paquete. Todo Peru. Bandera, soles, IGV, RNE y 110 recursos CAPECO.
+110 recursos de construccion para Peru: materiales, mano de obra y equipos.
 
-```bash
-pip install git+https://github.com/CMEDUCATIVA/catalogo_peru.git
-```
+## Usar en CMPROYECTOSBIM
 
-## Que incluye
+1. Catalogo > Importar catalogo de recursos
+2. Buscar Peru (PE_LIMA)
+3. Clic en Importar
 
-- Bandera: `PE` en catalogo CWICR
-- Moneda: `PEN` (S/) con IGV 18%
-- Normas: RNE 2024 (E.020, E.030, E.050, E.060, E.070, E.090)
-- 110 recursos CAPECO (materiales, mano de obra, equipos)
-- 35 partidas SENCICO con precios en PEN
-- 25 regiones peruanas (departamentos)
-- Wizard de onboarding: RUC, zona sismica, RNE, contrato
-- Terminos en espanol peruano
-- Branding rojo peruano (#D91023)
+## Estructura
 
-## Despues de instalar
+PE___DDC_CWICR/PE_LIMA_catalog.csv - 110 recursos CAPECO en PEN
 
-1. El ERP detecta el pack al iniciar
-2. Aparece Peru en **Catalogo > Importar catalogo de recursos**
-3. Haz clic en **Importar** para cargar los 110 recursos CAPECO
-4. Crea tu proyecto con moneda PEN e IGV 18%
-5. Las partidas SENCICO estan listas en Cost Database
+## Fuente
 
-## Licencia
-
-AGPL-3.0-or-later
+Datos extraidos de CAPECO (Camara Peruana de la Construccion)

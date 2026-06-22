@@ -1,0 +1,111 @@
+resource_code,name,type,category,unit,base_price,min_price,max_price,currency
+INS-PE-HERRAMIENTAS,Herramientas,equipment,EQUIPO,und,5,,,PEN
+INS-PE-ARENA_GRUESA,Arena gruesa,material,MATERIALES,m3,1,,,PEN
+INS-PE-CAPATAZ,Capataz,labor,MANO DE OBRA,hh,1,,,PEN
+INS-PE-OPERARIO,Operario,labor,MANO DE OBRA,hh,1,,,PEN
+INS-PE-OFICIAL,Oficial,labor,MANO DE OBRA,hh,1,,,PEN
+INS-PE-PEÓN,Peón,labor,MANO DE OBRA,hh,1,,,PEN
+INS-PE-MEZCLADORA_DE_9-11_P3,Mezcladora de 9-11 p3,equipment,EQUIPO,hm,1,,,PEN
+"INS-PE-CLAVOS_2_1-2""","Clavos 2 1/2""",material,MATERIALES,kg,1,,,PEN
+INS-PE-ADITIVO_DESMOLDANTE,Aditivo Desmoldante,material,MATERIALES,gal,1,,,PEN
+INS-PE-MADERA_TORNILLO,Madera Tornillo,material,MATERIALES,p2,1,,,PEN
+INS-PE-PINTURA_ESMALTE_SINTÉTICO,Pintura Esmalte Sintético,material,MATERIALES,gal,1,,,PEN
+INS-PE-TOPÓGRAFO,Topógrafo,labor,MANO DE OBRA,hh,1,,,PEN
+INS-PE-RETROEXCAVADORA_DE_1-2_A_,Retroexcavadora de 1/2 a 1 1/4  yd3,equipment,EQUIPO,hm,1,,,PEN
+INS-PE-COMPACTADOR_VIBRATORIO_TI,"Compactador Vibratorio Tipo Plancha 5.8 HP, 145 kg",equipment,EQUIPO,hm,1,,,PEN
+INS-PE-TEODOLITO,Teodolito,equipment,EQUIPO,hm,1,,,PEN
+INS-PE-WINCHA_DE_LONA_DE_30_MTS.,Wincha de lona de 30 mts.,equipment,EQUIPO,und,1,,,PEN
+INS-PE-REGLA_PARA_ACABADO_DE_FAL,"Regla para acabado de falso piso/piso 2""x4""x12'",material,MATERIALES,p2,1,,,PEN
+INS-PE-OPERADOR_DE_EQUIPO_LIVIAN,Operador de equipo liviano,labor,MANO DE OBRA,hh,1,,,PEN
+INS-PE-CEMENTO_PORTLAND_TIPO_I_(,Cemento Portland Tipo I (42.5 Kg),material,MATERIALES,bls,1,,,PEN
+INS-PE-ARENA_FINA,Arena fina,material,MATERIALES,m3,1,,,PEN
+"INS-PE-PIEDRA_CHANCADA_1-2""","Piedra chancada 1/2""",material,MATERIALES,m3,1,,,PEN
+"INS-PE-PIEDRA_CHANCADA_3-4""","Piedra chancada 3/4""",material,MATERIALES,m3,1,,,PEN
+INS-PE-PIEDRA_MEDIANA_DE_CANTERA,Piedra mediana de cantera o de río,material,MATERIALES,m3,1,,,PEN
+INS-PE-HORMIGÓN,Hormigón,material,MATERIALES,m3,1,,,PEN
+"INS-PE-CLAVOS_DE_3""","Clavos de 3""",material,MATERIALES,kg,1,,,PEN
+INS-PE-ALAMBRE_NEGRO_N°_8,Alambre negro N° 8,material,MATERIALES,kg,1,,,PEN
+"INS-PE-CLAVOS_3_1-2""","Clavos 3 1/2""",material,MATERIALES,kg,1,,,PEN
+"INS-PE-CLAVOS_DE_4""","Clavos de 4""",material,MATERIALES,kg,1,,,PEN
+INS-PE-TRIPLAY_LUPUNA_4'X_8'_X_1,Triplay lupuna 4'x 8' x 19mm,material,MATERIALES,und,1,,,PEN
+"INS-PE-PERNOS_DE_1-2""","Pernos de 1/2""",material,MATERIALES,und,1,,,PEN
+"INS-PE-TUBO_PVC_3-4""","Tubo PVC 3/4""",material,MATERIALES,m,1,,,PEN
+INS-PE-ALAMBRE_NEGRO_N°_16,Alambre negro N° 16,material,MATERIALES,kg,1,,,PEN
+INS-PE-VIBRADOR_DE_4_HP,Vibrador de 4 HP,equipment,EQUIPO,hm,1,,,PEN
+INS-PE-PASES_DE_MADERA,Pases de madera,material,MATERIALES,p2,1,,,PEN
+INS-PE-WINCHE_ELÉCTRICO,Winche eléctrico,equipment,EQUIPO,hm,1,,,PEN
+"INS-PE-FIERRO_CORRUGADO_Ø_5-8""(P","Fierro corrugado Ø 5/8""(promedio)",material,MATERIALES,kg,1,,,PEN
+INS-PE-CIZALLA,Cizalla,equipment,EQUIPO,hm,1,,,PEN
+INS-PE-CONCRETO_PREMEZCLADO_F'C_,Concreto premezclado f'c variable,material,MATERIALES,m3,1,,,PEN
+INS-PE-BOMBA_DE_CONCRETO,Bomba de concreto,equipment,EQUIPO,hm,1,,,PEN
+INS-PE-LADRILLO_DE_ARCILLA_HUECO,Ladrillo de arcilla hueco 12 x 30 x30cm,material,MATERIALES,pza,1,,,PEN
+INS-PE-LADRILLO_DE_ARCILLA_HUECO,Ladrillo de arcilla hueco 15 x 30 x 30cm,material,MATERIALES,pza,1,,,PEN
+INS-PE-LADRILLO_DE_ARCILLA_HUECO,Ladrillo de arcilla hueco 20 x 30 x 30cm,material,MATERIALES,pza,1,,,PEN
+INS-PE-LADRILLO_DE_ARCILLA_DE_24,Ladrillo de arcilla de 24 x 14 x 9 cm,material,MATERIALES,pza,1,,,PEN
+INS-PE-ANDAMIO_DE_MADERA,Andamio de madera,material,MATERIALES,p2,1,,,PEN
+INS-PE-LADRILLO_DE_ARCILLA_DE_25,Ladrillo de arcilla de 25 x 12 x 10cm,material,MATERIALES,pza,1,,,PEN
+INS-PE-LADRILLO_DE_ARCILLA_DE_24,Ladrillo de arcilla de 24 x 12 x 6cm,material,MATERIALES,pza,1,,,PEN
+INS-PE-LADRILLO_DE_ARCILLA_DE_29,Ladrillo de arcilla de 29 x 9 c 9cm,material,MATERIALES,pza,1,,,PEN
+INS-PE-YESO_(BOLSA_DE_28_KG),Yeso (bolsa de 28 kg),material,MATERIALES,bls,1,,,PEN
+INS-PE-LOSETA_20X_20CM,Loseta 20x 20cm,material,MATERIALES,m2,1,,,PEN
+INS-PE-LOSETA_30_X_30CM,Loseta 30 x 30cm,material,MATERIALES,m2,1,,,PEN
+INS-PE-CERÁMICA_HEXAGONAL,Cerámica hexagonal,material,MATERIALES,m2,1,,,PEN
+INS-PE-PEGAMENTO,Pegamento,material,MATERIALES,gal,1,,,PEN
+INS-PE-LOSETA_VINÍLICA_1.6_M.M.,Loseta vinílica 1.6 m.m.,material,MATERIALES,m2,1,,,PEN
+INS-PE-CEMENTO_BLANCO,Cemento blanco,material,MATERIALES,bls,1,,,PEN
+INS-PE-MÁRMOL_TRAVERTINO_BOTTICI,Mármol travertino botticino,material,MATERIALES,m2,1,,,PEN
+INS-PE-OCRE,Ocre,material,MATERIALES,kg,1,,,PEN
+INS-PE-PORCELANA,Porcelana,material,MATERIALES,kg,1,,,PEN
+INS-PE-MAYÓLICA_TERMINAL,Mayólica terminal,material,MATERIALES,und,1,,,PEN
+INS-PE-MAYÓLICA_11_X_11CM,Mayólica 11 x 11cm,material,MATERIALES,und,1,,,PEN
+INS-PE-AFIRMADO,Afirmado,material,MATERIALES,m3,1,,,PEN
+INS-PE-ASFALTO_RC_-_250,Asfalto RC - 250,material,MATERIALES,gal,1,,,PEN
+INS-PE-TRACTOR_CAT_-D6_Ó_SIMILAR,Tractor CAT -D6 ó similar,equipment,EQUIPO,hm,1,,,PEN
+INS-PE-RODILLO_3_RUEDAS-CIL_10-1,Rodillo 3 ruedas-cil 10-15 ton,equipment,EQUIPO,hm,1,,,PEN
+INS-PE-RODILLO_TANDEM_8-14T._94H,Rodillo tandem 8-14T. 94HP,equipment,EQUIPO,hm,1,,,PEN
+INS-PE-PLANTA_DE_ASFALTO_EN_FRIO,Planta de asfalto en frio 60-115 Ton,equipment,EQUIPO,hm,1,,,PEN
+INS-PE-PAVIMENTADORA_10-14P._ANC,Pavimentadora 10-14p. ancho 69HP,equipment,EQUIPO,hm,1,,,PEN
+INS-PE-ASFALTO_INDUST._SÓLIDO_16,Asfalto indust. sólido 160/180 PA,material,MATERIALES,kg,1,,,PEN
+INS-PE-CARGADOR_FRONTAL_CAT-950,Cargador frontal CAT-950,equipment,EQUIPO,hm,1,,,PEN
+INS-PE-PLANTA_DE_ASFALTO_EN_CALI,Planta de asfalto en caliente,equipment,EQUIPO,hm,1,,,PEN
+"INS-PE-VOLQUETE_4X2_210-280_HP,_","Volquete 4x2 210-280 HP, 8m3, 91,000kg",equipment,EQUIPO,hm,1,,,PEN
+INS-PE-CONTRAZÓCALO_VENECIANO_DE,Contrazócalo veneciano de 10 x 20cm,material,MATERIALES,m,1,,,PEN
+INS-PE-CONTRAZÓCALO_DE_ALUMINIO_,Contrazócalo de aluminio h=2,material,MATERIALES,m,1,,,PEN
+INS-PE-CONTRAZÓCALO_CEDRO_BOLEAD,"Contrazócalo cedro boleado 3/4"" x 2""",material,MATERIALES,m,1,,,PEN
+"INS-PE-RODONES_DE_3-4""_X_3-4""","Rodones de 3/4"" x 3/4""",material,MATERIALES,m,1,,,PEN
+"INS-PE-CLAVOS_DE_1__1-2""","Clavos de 1  1/2""",material,MATERIALES,kg,1,,,PEN
+INS-PE-CONTRAZÓCALO_CEDRO_BOLEAD,"Contrazócalo cedro boleado 3/4"" x 3""",material,MATERIALES,m,1,,,PEN
+INS-PE-MAYÓLICA_15_X_15_DE_1RA.,Mayólica 15 x 15 de 1ra.,material,MATERIALES,m2,1,,,PEN
+INS-PE-MAYÓLICA_11_X_11_DE_1RA.,Mayólica 11 x 11 de 1ra.,material,MATERIALES,m2,1,,,PEN
+INS-PE-LADRILLO_PASTELERO_24_X_2,Ladrillo pastelero 24 x 24cm,material,MATERIALES,pza,1,,,PEN
+INS-PE-TIERRA_DE_CHACRA,Tierra de chacra,material,MATERIALES,m3,1,,,PEN
+INS-PE-COLA_SINTÉTICA,Cola sintética,material,MATERIALES,gal,1,,,PEN
+INS-PE-PINTURA_IMPRIMANTE_BLANCA,Pintura imprimante blanca,material,MATERIALES,gal,1,,,PEN
+INS-PE-PINTURA_LATEX_INTERIORES,Pintura latex interiores,material,MATERIALES,gal,1,,,PEN
+INS-PE-PINTURA_BARNÍZ,Pintura barníz,material,MATERIALES,gal,1,,,PEN
+INS-PE-PINTURA_IMPRIMANTE_INCOLO,Pintura imprimante incolora,material,MATERIALES,gal,1,,,PEN
+"INS-PE-MEZCLADORA_18_HP,11-12_P3","Mezcladora 18 HP,11-12 p3, 1,500 kg",equipment,EQUIPO,hm,1,,,PEN
+INS-PE-THINNER,Thinner,material,MATERIALES,gal,1,,,PEN
+INS-PE-ANDAMIO_METÁLICO,Andamio metálico,equipment,EQUIPO,und,1,,,PEN
+"INS-PE-BROCHA_PLANA_DE_1.5""","Brocha plana de 1.5""",material,MATERIALES,und,1,,,PEN
+INS-PE-OPERADOR_DE_EQUIPO_PESADO,Operador de equipo pesado,labor,MANO DE OBRA,hh,1,,,PEN
+INS-PE-MADERA_CEDRO,Madera cedro,material,MATERIALES,p2,1,,,PEN
+"INS-PE-REGLA_DE_MADERA_DE_2""_X_4","Regla de madera de 2"" x 4"" x 4'",material,MATERIALES,p2,1,,,PEN
+INS-PE-TIZA_(30_KG),Tiza (30 Kg),material,MATERIALES,kg,1,,,PEN
+INS-PE-IMPRIMANTE_TEMPLE,Imprimante temple,material,MATERIALES,kg,1,,,PEN
+INS-PE-LIJA_PARA_METAL,Lija para metal,material,MATERIALES,und,1.68,,,PEN
+INS-PE-PINTURA_IMPRIMANTE_BLANCA,Pintura imprimante blanca 50 kg,material,MATERIALES,bls,1,,,PEN
+INS-PE-CLAVOS_CON_CABEZA_PROMEDI,Clavos con cabeza promedio,material,MATERIALES,kg,1,,,PEN
+INS-PE-REGLA_DE_MADERA,Regla de madera,material,MATERIALES,p2,1,,,PEN
+INS-PE-MADERA_PARA_REGLAS_(CEDRO,Madera para Reglas (Cedro),material,MATERIALES,p2,1,,,PEN
+INS-PE-ANDAMIO_METÁLICO,Andamio Metálico,equipment,EQUIPO,hm,1,,,PEN
+INS-PE-TEROKAL,Terokal,material,MATERIALES,gal,1,,,PEN
+INS-PE-FORMICA_C-ENCHAPE_MELAMIN,Formica C/Enchape Melaminico,material,MATERIALES,m2,1,,,PEN
+INS-PE-AGLOMERADO_MDF_(2.16_X_2.,Aglomerado MDF (2.16 x 2.60),material,MATERIALES,und,1,,,PEN
+INS-PE-CEPILLADORA_ELÉCTRICA,Cepilladora Eléctrica,equipment,EQUIPO,hm,1,,,PEN
+INS-PE-SIERRA_CIRCULAR,Sierra Circular,equipment,EQUIPO,hm,1,,,PEN
+INS-PE-MAYÓLICA_15_X_15CM,Mayólica 15 x 15cm,material,MATERIALES,und,1,,,PEN
+INS-PE-PISÓN_DE_MANO,Pisón de mano,material,MATERIALES,und,1,,,PEN
+"INS-PE-FILTROS,_LUBRICANTES","Filtros, lubricantes",material,MATERIALES,und,1,,,PEN
+INS-PE-SOLDADURA_(%_DE_ACERO),Soldadura (% de acero),material,MATERIALES,und,1,,,PEN
+INS-PE-PEÓN,Peón,labor,MANO DE OBRA,und,1,,,PEN
