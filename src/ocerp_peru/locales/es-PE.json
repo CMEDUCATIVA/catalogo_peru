@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "locale": "es-PE",
+    "country": "PE"
+  },
+  "common": {
+    "partida": "Partida",
+    "presupuesto": "Presupuesto"
+  },
+  "currency": {
+    "PEN": "S/"
+  },
+  "units": {
+    "m": "m",
+    "m2": "m2",
+    "m3": "m3",
+    "kg": "kg",
+    "und": "und"
+  },
+  "standards": {}
+}

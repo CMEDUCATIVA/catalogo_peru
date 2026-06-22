@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "openconstructionerp-peru"
+version = "0.1.0"
+description = "Peru Partner Pack para OpenConstructionERP"
+readme = "README.md"
+license = { text = "AGPL-3.0-or-later" }
+requires-python = ">=3.11"
+authors = [{ name = "CMEDUCATIVA", email = "info@cmeducativa.com" }]
+dependencies = ["openconstructionerp>=5.5.0"]
+
+[project.entry-points."openconstructionerp.partner_packs"]
+peru = "ocerp_peru:MANIFEST"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+[tool.setuptools.packages.find]
+where = ["src"]
+[tool.setuptools.package-data]
+ocerp_peru = ["logo.svg", "onboarding.yaml", "locales/*.json", "rule_packs/*.json", "rule_packs/**/*.json"]

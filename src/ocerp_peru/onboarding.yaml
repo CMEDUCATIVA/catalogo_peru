@@ -1,0 +1,29 @@
+version: 1
+pack: peru
+locale: es-PE
+estimated_minutes: 4
+title: "Bienvenido a OpenConstructionERP - Peru"
+subtitle: "Configura tu espacio de trabajo para Peru."
+
+steps:
+  - id: company
+    title: "Perfil"
+    body: "Datos de tu empresa."
+    fields:
+      - { key: company_name, label: "Razon social", type: text, required: true }
+      - { key: tax_id, label: "ID Fiscal", type: text, required: true }
+      - { key: head_office, label: "Ciudad sede", type: text, required: true }
+
+  - id: region
+    title: "Regiones de precios"
+    body: "Selecciona las regiones de costos. La primera (PE_LIMA) es la referencia con factor 1.00."
+    fields:
+      - { key: cwicr_regions, label: "Regiones activas", type: multiselect, required: true, default: ["PE_LIMA"], options: ["PE_LIMA", "PE_AREQUIPA", "PE_CUSCO", "PE_TRUJILLO", "PE_PIURA", "PE_CHICLAYO", "PE_HUANCAYO", "PE_IQUITOS", "PE_PUCALLPA", "PE_TACNA", "PE_CHIMBOTE", "PE_CAJAMARCA"] }
+
+  - id: review
+    title: "Finalizar"
+    body: "12 regiones disponibles. Moneda: PEN."
+    action:
+      label: "Crear espacio Peru"
+      apply:
+        - set_default_currency: PEN
