@@ -1,111 +1,75 @@
 resource_code,name,type,category,unit,price_avg,price_min,price_max,currency,usage_count,parent_category,parent_collection,parent_department,parent_section
-INS-PE-HERRAMIENTAS,Herramientas,equipment,EQUIPO,und,5.00,3.00,8.00,PEN,,EQUIPO,EQUIPO,PERU,CAPECO
-INS-PE-ARENA_GRUESA,Arena gruesa,material,MATERIALES,m3,35.00,30.00,42.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-CAPATAZ,Capataz,labor,MANO DE OBRA,hh,32.00,28.00,38.00,PEN,,MANO DE OBRA,MANO DE OBRA,PERU,CAPECO
-INS-PE-OPERARIO,Operario,labor,MANO DE OBRA,hh,28.00,24.00,33.00,PEN,,MANO DE OBRA,MANO DE OBRA,PERU,CAPECO
-INS-PE-OFICIAL,Oficial,labor,MANO DE OBRA,hh,22.00,19.00,26.00,PEN,,MANO DE OBRA,MANO DE OBRA,PERU,CAPECO
-INS-PE-PEÓN,Peón,labor,MANO DE OBRA,hh,1,,,PEN,,MANO DE OBRA,MANO DE OBRA,PERU,CAPECO
-INS-PE-MEZCLADORA_DE_9-11_P3,Mezcladora de 9-11 p3,equipment,EQUIPO,hm,30.00,25.00,38.00,PEN,,EQUIPO,EQUIPO,PERU,CAPECO
-"INS-PE-CLAVOS_2_1-2""","Clavos 2 1/2""",material,MATERIALES,kg,6.50,5.50,8.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-ADITIVO_DESMOLDANTE,Aditivo Desmoldante,material,MATERIALES,gal,32.00,25.00,40.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-MADERA_TORNILLO,Madera Tornillo,material,MATERIALES,und,4.50,3.80,5.50,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-PINTURA_ESMALTE_SINTÉTICO,Pintura Esmalte Sintético,material,MATERIALES,gal,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-TOPÓGRAFO,Topógrafo,labor,MANO DE OBRA,hh,1,,,PEN,,MANO DE OBRA,MANO DE OBRA,PERU,CAPECO
-INS-PE-RETROEXCAVADORA_DE_1-2_A_,Retroexcavadora de 1/2 a 1 1/4  yd3,equipment,EQUIPO,hm,180.00,150.00,220.00,PEN,,EQUIPO,EQUIPO,PERU,CAPECO
-INS-PE-COMPACTADOR_VIBRATORIO_TI,"Compactador Vibratorio Tipo Plancha 5.8 HP, 145 kg",equipment,EQUIPO,hm,1,,,PEN,,EQUIPO,EQUIPO,PERU,CAPECO
-INS-PE-TEODOLITO,Teodolito,equipment,EQUIPO,hm,15.00,10.00,20.00,PEN,,EQUIPO,EQUIPO,PERU,CAPECO
-INS-PE-WINCHA_DE_LONA_DE_30_MTS.,Wincha de lona de 30 mts.,equipment,EQUIPO,und,2.00,1.00,3.00,PEN,,EQUIPO,EQUIPO,PERU,CAPECO
-INS-PE-REGLA_PARA_ACABADO_DE_FAL,"Regla para acabado de falso piso/piso 2""x4""x12'",material,MATERIALES,und,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-OPERADOR_DE_EQUIPO_LIVIAN,Operador de equipo liviano,labor,MANO DE OBRA,hh,30.00,26.00,36.00,PEN,,MANO DE OBRA,MANO DE OBRA,PERU,CAPECO
-INS-PE-CEMENTO_PORTLAND_TIPO_I_(,Cemento Portland Tipo I (42.5 Kg),material,MATERIALES,bls,28.00,26.00,32.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-ARENA_FINA,Arena fina,material,MATERIALES,m3,38.00,32.00,45.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-"INS-PE-PIEDRA_CHANCADA_1-2""","Piedra chancada 1/2""",material,MATERIALES,m3,45.00,40.00,55.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-"INS-PE-PIEDRA_CHANCADA_3-4""","Piedra chancada 3/4""",material,MATERIALES,m3,48.00,42.00,58.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-PIEDRA_MEDIANA_DE_CANTERA,Piedra mediana de cantera o de río,material,MATERIALES,m3,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-HORMIGÓN,Hormigón,material,MATERIALES,m3,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-"INS-PE-CLAVOS_DE_3""","Clavos de 3""",material,MATERIALES,kg,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-ALAMBRE_NEGRO_N°_8,Alambre negro N° 8,material,MATERIALES,kg,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-"INS-PE-CLAVOS_3_1-2""","Clavos 3 1/2""",material,MATERIALES,kg,7.00,6.00,8.50,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-"INS-PE-CLAVOS_DE_4""","Clavos de 4""",material,MATERIALES,kg,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-TRIPLAY_LUPUNA_4'X_8'_X_1,Triplay lupuna 4'x 8' x 19mm,material,MATERIALES,und,85.00,75.00,100.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-"INS-PE-PERNOS_DE_1-2""","Pernos de 1/2""",material,MATERIALES,und,1.50,1.20,2.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-"INS-PE-TUBO_PVC_3-4""","Tubo PVC 3/4""",material,MATERIALES,m,3.50,2.80,4.50,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-ALAMBRE_NEGRO_N°_16,Alambre negro N° 16,material,MATERIALES,kg,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-VIBRADOR_DE_4_HP,Vibrador de 4 HP,equipment,EQUIPO,hm,12.00,10.00,16.00,PEN,,EQUIPO,EQUIPO,PERU,CAPECO
-INS-PE-PASES_DE_MADERA,Pases de madera,material,MATERIALES,und,3.50,2.80,4.50,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-WINCHE_ELÉCTRICO,Winche eléctrico,equipment,EQUIPO,hm,1,,,PEN,,EQUIPO,EQUIPO,PERU,CAPECO
-"INS-PE-FIERRO_CORRUGADO_Ø_5-8""(P","Fierro corrugado Ø 5/8""(promedio)",material,MATERIALES,kg,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-CIZALLA,Cizalla,equipment,EQUIPO,hm,18.00,14.00,24.00,PEN,,EQUIPO,EQUIPO,PERU,CAPECO
-INS-PE-CONCRETO_PREMEZCLADO_F'C_,Concreto premezclado f'c variable,material,MATERIALES,m3,380.00,350.00,420.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-BOMBA_DE_CONCRETO,Bomba de concreto,equipment,EQUIPO,hm,180.00,150.00,220.00,PEN,,EQUIPO,EQUIPO,PERU,CAPECO
-INS-PE-LADRILLO_DE_ARCILLA_HUECO,Ladrillo de arcilla hueco 12 x 30 x30cm,material,MATERIALES,pza,2.80,2.30,3.50,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-LADRILLO_DE_ARCILLA_HUECO,Ladrillo de arcilla hueco 15 x 30 x 30cm,material,MATERIALES,pza,3.20,2.70,3.90,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-LADRILLO_DE_ARCILLA_HUECO,Ladrillo de arcilla hueco 20 x 30 x 30cm,material,MATERIALES,pza,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-LADRILLO_DE_ARCILLA_DE_24,Ladrillo de arcilla de 24 x 14 x 9 cm,material,MATERIALES,pza,1.20,1.00,1.50,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-ANDAMIO_DE_MADERA,Andamio de madera,material,MATERIALES,und,5.50,4.50,7.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-LADRILLO_DE_ARCILLA_DE_25,Ladrillo de arcilla de 25 x 12 x 10cm,material,MATERIALES,pza,1.30,1.10,1.60,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-LADRILLO_DE_ARCILLA_DE_24,Ladrillo de arcilla de 24 x 12 x 6cm,material,MATERIALES,pza,0.80,0.65,1.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-LADRILLO_DE_ARCILLA_DE_29,Ladrillo de arcilla de 29 x 9 c 9cm,material,MATERIALES,pza,1.00,0.85,1.30,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-YESO_(BOLSA_DE_28_KG),Yeso (bolsa de 28 kg),material,MATERIALES,bls,18.00,15.00,22.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-LOSETA_20X_20CM,Loseta 20x 20cm,material,MATERIALES,m2,22.00,15.00,32.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-LOSETA_30_X_30CM,Loseta 30 x 30cm,material,MATERIALES,m2,28.00,20.00,38.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-CERÁMICA_HEXAGONAL,Cerámica hexagonal,material,MATERIALES,m2,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-PEGAMENTO,Pegamento,material,MATERIALES,gal,25.00,20.00,32.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-LOSETA_VINÍLICA_1.6_M.M.,Loseta vinílica 1.6 m.m.,material,MATERIALES,m2,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-CEMENTO_BLANCO,Cemento blanco,material,MATERIALES,bls,35.00,32.00,40.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-MÁRMOL_TRAVERTINO_BOTTICI,Mármol travertino botticino,material,MATERIALES,m2,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-OCRE,Ocre,material,MATERIALES,kg,3.50,2.50,5.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-PORCELANA,Porcelana,material,MATERIALES,kg,8.00,5.00,12.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-MAYÓLICA_TERMINAL,Mayólica terminal,material,MATERIALES,und,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-MAYÓLICA_11_X_11CM,Mayólica 11 x 11cm,material,MATERIALES,und,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-AFIRMADO,Afirmado,material,MATERIALES,m3,30.00,25.00,38.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-ASFALTO_RC_-_250,Asfalto RC - 250,material,MATERIALES,gal,18.00,15.00,22.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-TRACTOR_CAT_-D6_Ó_SIMILAR,Tractor CAT -D6 ó similar,equipment,EQUIPO,hm,1,,,PEN,,EQUIPO,EQUIPO,PERU,CAPECO
-INS-PE-RODILLO_3_RUEDAS-CIL_10-1,Rodillo 3 ruedas-cil 10-15 ton,equipment,EQUIPO,hm,140.00,110.00,170.00,PEN,,EQUIPO,EQUIPO,PERU,CAPECO
-INS-PE-RODILLO_TANDEM_8-14T._94H,Rodillo tandem 8-14T. 94HP,equipment,EQUIPO,hm,150.00,120.00,180.00,PEN,,EQUIPO,EQUIPO,PERU,CAPECO
-INS-PE-PLANTA_DE_ASFALTO_EN_FRIO,Planta de asfalto en frio 60-115 Ton,equipment,EQUIPO,hm,450.00,380.00,550.00,PEN,,EQUIPO,EQUIPO,PERU,CAPECO
-INS-PE-PAVIMENTADORA_10-14P._ANC,Pavimentadora 10-14p. ancho 69HP,equipment,EQUIPO,hm,320.00,260.00,380.00,PEN,,EQUIPO,EQUIPO,PERU,CAPECO
-INS-PE-ASFALTO_INDUST._SÓLIDO_16,Asfalto indust. sólido 160/180 PA,material,MATERIALES,kg,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-CARGADOR_FRONTAL_CAT-950,Cargador frontal CAT-950,equipment,EQUIPO,hm,220.00,180.00,260.00,PEN,,EQUIPO,EQUIPO,PERU,CAPECO
-INS-PE-PLANTA_DE_ASFALTO_EN_CALI,Planta de asfalto en caliente,equipment,EQUIPO,hm,580.00,480.00,700.00,PEN,,EQUIPO,EQUIPO,PERU,CAPECO
-"INS-PE-VOLQUETE_4X2_210-280_HP,_","Volquete 4x2 210-280 HP, 8m3, 91,000kg",equipment,EQUIPO,hm,160.00,140.00,190.00,PEN,,EQUIPO,EQUIPO,PERU,CAPECO
-INS-PE-CONTRAZÓCALO_VENECIANO_DE,Contrazócalo veneciano de 10 x 20cm,material,MATERIALES,m,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-CONTRAZÓCALO_DE_ALUMINIO_,Contrazócalo de aluminio h=2,material,MATERIALES,m,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-CONTRAZÓCALO_CEDRO_BOLEAD,"Contrazócalo cedro boleado 3/4"" x 2""",material,MATERIALES,m,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-"INS-PE-RODONES_DE_3-4""_X_3-4""","Rodones de 3/4"" x 3/4""",material,MATERIALES,m,5.00,4.00,6.50,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-"INS-PE-CLAVOS_DE_1__1-2""","Clavos de 1  1/2""",material,MATERIALES,kg,6.50,5.50,8.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-CONTRAZÓCALO_CEDRO_BOLEAD,"Contrazócalo cedro boleado 3/4"" x 3""",material,MATERIALES,m,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-MAYÓLICA_15_X_15_DE_1RA.,Mayólica 15 x 15 de 1ra.,material,MATERIALES,m2,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-MAYÓLICA_11_X_11_DE_1RA.,Mayólica 11 x 11 de 1ra.,material,MATERIALES,m2,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-LADRILLO_PASTELERO_24_X_2,Ladrillo pastelero 24 x 24cm,material,MATERIALES,pza,1.50,1.20,1.80,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-TIERRA_DE_CHACRA,Tierra de chacra,material,MATERIALES,m3,25.00,20.00,32.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-COLA_SINTÉTICA,Cola sintética,material,MATERIALES,gal,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-PINTURA_IMPRIMANTE_BLANCA,Pintura imprimante blanca,material,MATERIALES,gal,38.00,30.00,48.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-PINTURA_LATEX_INTERIORES,Pintura latex interiores,material,MATERIALES,gal,35.00,28.00,45.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-PINTURA_BARNÍZ,Pintura barníz,material,MATERIALES,gal,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-PINTURA_IMPRIMANTE_INCOLO,Pintura imprimante incolora,material,MATERIALES,gal,32.00,25.00,42.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-"INS-PE-MEZCLADORA_18_HP,11-12_P3","Mezcladora 18 HP,11-12 p3, 1,500 kg",equipment,EQUIPO,hm,45.00,38.00,55.00,PEN,,EQUIPO,EQUIPO,PERU,CAPECO
-INS-PE-THINNER,Thinner,material,MATERIALES,gal,18.00,15.00,24.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-ANDAMIO_METÁLICO,Andamio metálico,equipment,EQUIPO,und,1,,,PEN,,EQUIPO,EQUIPO,PERU,CAPECO
-"INS-PE-BROCHA_PLANA_DE_1.5""","Brocha plana de 1.5""",material,MATERIALES,und,8.00,6.00,12.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-OPERADOR_DE_EQUIPO_PESADO,Operador de equipo pesado,labor,MANO DE OBRA,hh,35.00,30.00,42.00,PEN,,MANO DE OBRA,MANO DE OBRA,PERU,CAPECO
-INS-PE-MADERA_CEDRO,Madera cedro,material,MATERIALES,und,6.00,5.00,7.50,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-"INS-PE-REGLA_DE_MADERA_DE_2""_X_4","Regla de madera de 2"" x 4"" x 4'",material,MATERIALES,und,4.50,3.50,6.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-TIZA_(30_KG),Tiza (30 Kg),material,MATERIALES,kg,12.00,10.00,15.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-IMPRIMANTE_TEMPLE,Imprimante temple,material,MATERIALES,kg,4.50,3.50,6.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-LIJA_PARA_METAL,Lija para metal,material,MATERIALES,und,2.50,1.80,3.50,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-PINTURA_IMPRIMANTE_BLANCA,Pintura imprimante blanca 50 kg,material,MATERIALES,bls,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-CLAVOS_CON_CABEZA_PROMEDI,Clavos con cabeza promedio,material,MATERIALES,kg,6.80,5.80,8.20,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-REGLA_DE_MADERA,Regla de madera,material,MATERIALES,und,4.00,3.00,5.50,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-MADERA_PARA_REGLAS_(CEDRO,Madera para Reglas (Cedro),material,MATERIALES,und,6.00,5.00,7.50,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-ANDAMIO_METÁLICO,Andamio Metálico,equipment,EQUIPO,hm,1,,,PEN,,EQUIPO,EQUIPO,PERU,CAPECO
-INS-PE-TEROKAL,Terokal,material,MATERIALES,gal,22.00,18.00,28.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-FORMICA_C-ENCHAPE_MELAMIN,Formica C/Enchape Melaminico,material,MATERIALES,m2,55.00,45.00,68.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-AGLOMERADO_MDF_(2.16_X_2.,Aglomerado MDF (2.16 x 2.60),material,MATERIALES,und,95.00,80.00,120.00,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-CEPILLADORA_ELÉCTRICA,Cepilladora Eléctrica,equipment,EQUIPO,hm,1,,,PEN,,EQUIPO,EQUIPO,PERU,CAPECO
-INS-PE-SIERRA_CIRCULAR,Sierra Circular,equipment,EQUIPO,hm,15.00,12.00,20.00,PEN,,EQUIPO,EQUIPO,PERU,CAPECO
-INS-PE-MAYÓLICA_15_X_15CM,Mayólica 15 x 15cm,material,MATERIALES,und,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-PISÓN_DE_MANO,Pisón de mano,material,MATERIALES,und,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-"INS-PE-FILTROS,_LUBRICANTES","Filtros, lubricantes",material,MATERIALES,und,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-SOLDADURA_(%_DE_ACERO),Soldadura (% de acero),material,MATERIALES,und,1,,,PEN,,MATERIALES,MATERIALES,PERU,CAPECO
-INS-PE-PEÓN,Peón,labor,MANO DE OBRA,und,1,,,PEN,,MANO DE OBRA,MANO DE OBRA,PERU,CAPECO
+INS-PE-CAPATAZ,Capataz,labor,Mano de Obra,hh,32.00,28.00,38.00,PEN,47,Construccion,Personal,CAPECO,
+INS-PE-OPERARIO,Operario,labor,Mano de Obra,hh,28.00,24.00,33.00,PEN,47,Construccion,Personal,CAPECO,
+INS-PE-OFICIAL,Oficial,labor,Mano de Obra,hh,22.00,19.00,26.00,PEN,47,Construccion,Personal,CAPECO,
+INS-PE-PEON,Peon,labor,Mano de Obra,hh,15.00,13.00,18.00,PEN,47,Construccion,Personal,CAPECO,
+INS-PE-TOPOGRAFO,Topografo,labor,Mano de Obra,hh,35.00,30.00,42.00,PEN,47,Construccion,Personal,CAPECO,
+INS-PE-OP-EQ-LIVIANO,Operador de equipo liviano,labor,Mano de Obra,hh,30.00,26.00,36.00,PEN,47,Construccion,Personal,CAPECO,
+INS-PE-OP-EQ-PESADO,Operador de equipo pesado,labor,Mano de Obra,hh,35.00,30.00,42.00,PEN,47,Construccion,Personal,CAPECO,
+INS-PE-MEZCLADORA-9P3,Mezcladora de concreto 9-11 p3,equipment,Equipos,hm,30.00,25.00,38.00,PEN,49,Concreto,Equipos,CAPECO,
+INS-PE-MEZCLADORA-18HP,Mezcladora 18 HP 11-12 p3,equipment,Equipos,hm,45.00,38.00,55.00,PEN,49,Concreto,Equipos,CAPECO,
+INS-PE-VIBRADOR,Vibrador de concreto 4 HP,equipment,Equipos,hm,12.00,10.00,16.00,PEN,49,Concreto,Equipos,CAPECO,
+INS-PE-COMPACTADOR,Compactador vibratorio plancha 5.8 HP,equipment,Equipos,hm,28.00,22.00,35.00,PEN,49,Movimiento de Tierras,Equipos,CAPECO,
+INS-PE-RETROEXCAVADORA,Retroexcavadora 1/2-1 1/4 yd3,equipment,Equipos,hm,180.00,150.00,220.00,PEN,49,Movimiento de Tierras,Equipos,CAPECO,
+INS-PE-CARGADOR-FRONTAL,Cargador frontal CAT-950,equipment,Equipos,hm,220.00,180.00,260.00,PEN,49,Movimiento de Tierras,Equipos,CAPECO,
+INS-PE-TRACTOR,Tractor CAT D6,equipment,Equipos,hm,250.00,200.00,300.00,PEN,49,Movimiento de Tierras,Equipos,CAPECO,
+INS-PE-VOLQUETE,Volquete 4x2 15m3,equipment,Equipos,hm,160.00,140.00,190.00,PEN,49,Movimiento de Tierras,Equipos,CAPECO,
+INS-PE-RODILLO-TANDEM,Rodillo tandem 8-14T 94HP,equipment,Equipos,hm,150.00,120.00,180.00,PEN,49,Pavimentos,Equipos,CAPECO,
+INS-PE-RODILLO-3RUEDAS,Rodillo 3 ruedas 10-15 ton,equipment,Equipos,hm,140.00,110.00,170.00,PEN,49,Pavimentos,Equipos,CAPECO,
+INS-PE-BOMBA-CONCRETO,Bomba de concreto,equipment,Equipos,hm,180.00,150.00,220.00,PEN,49,Concreto,Equipos,CAPECO,
+INS-PE-WINCHE-ELECTRICO,Winche electrico,equipment,Equipos,hm,25.00,20.00,32.00,PEN,49,Construccion,Equipos,CAPECO,
+INS-PE-HERRAMIENTAS,Herramientas manuales (%MO),equipment,Equipos,%mo,5.00,3.00,8.00,PEN,37,Construccion,Equipos,CAPECO,
+INS-PE-ANDAMIO-METALICO,Andamio metalico,equipment,Equipos,hm,8.00,6.00,12.00,PEN,49,Construccion,Equipos,CAPECO,
+INS-PE-SIERRA-CIRCULAR,Sierra circular electrica,equipment,Equipos,hm,15.00,12.00,20.00,PEN,49,Carpinteria,Equipos,CAPECO,
+INS-PE-CEPILLADORA,Cepilladora electrica,equipment,Equipos,hm,12.00,10.00,16.00,PEN,49,Carpinteria,Equipos,CAPECO,
+INS-PE-TEODOLITO,Teodolito,equipment,Equipos,hm,15.00,10.00,20.00,PEN,49,Topografia,Equipos,CAPECO,
+INS-PE-ARENA-GRUESA,Arena gruesa,material,Agregados,m3,35.00,30.00,42.00,PEN,04,Concreto,Materiales,CAPECO,
+INS-PE-ARENA-FINA,Arena fina,material,Agregados,m3,38.00,32.00,45.00,PEN,04,Acabados,Materiales,CAPECO,
+INS-PE-PIEDRA-CHANCADA-1/2,Piedra chancada 1/2 pulg,material,Agregados,m3,45.00,40.00,55.00,PEN,05,Concreto,Materiales,CAPECO,
+INS-PE-PIEDRA-CHANCADA-3/4,Piedra chancada 3/4 pulg,material,Agregados,m3,48.00,42.00,58.00,PEN,05,Concreto,Materiales,CAPECO,
+INS-PE-PIEDRA-MEDIANA,Piedra mediana de cantera,material,Agregados,m3,40.00,35.00,50.00,PEN,05,Estructuras,Materiales,CAPECO,
+INS-PE-HORMIGON,Hormigon (agregado natural),material,Agregados,m3,38.00,32.00,45.00,PEN,38,Concreto,Materiales,CAPECO,
+INS-PE-AFIRMADO,Afirmado compactado,material,Agregados,m3,30.00,25.00,38.00,PEN,,Pavimentos,Materiales,CAPECO,
+INS-PE-TIERRA-CHACRA,Tierra de chacra,material,Agregados,m3,25.00,20.00,32.00,PEN,,Paisajismo,Materiales,CAPECO,
+INS-PE-CEMENTO-TIPO-I,Cemento Portland Tipo I (42.5 kg),material,Cemento y Concreto,bls,28.00,26.00,32.00,PEN,21,Concreto,Materiales,CAPECO,
+INS-PE-CEMENTO-BLANCO,Cemento blanco,material,Cemento y Concreto,bls,35.00,32.00,40.00,PEN,,Acabados,Materiales,CAPECO,
+INS-PE-CONCRETO-PREMEZCLADO,Concreto premezclado fc variable,material,Cemento y Concreto,m3,380.00,350.00,420.00,PEN,,Concreto,Materiales,CAPECO,
+INS-PE-YESO,Yeso (bolsa 28 kg),material,Cemento y Concreto,bls,18.00,15.00,22.00,PEN,,Acabados,Materiales,CAPECO,
+INS-PE-FIERRO-CORRUGADO,Fierro corrugado grado 60 fy=4200,material,Acero,kg,4.20,3.80,4.80,PEN,03,Estructuras,Materiales,CAPECO,
+INS-PE-ALAMBRE-NEGRO-8,Alambre negro N 8,material,Acero,kg,6.50,5.50,8.00,PEN,03,Estructuras,Materiales,CAPECO,
+INS-PE-ALAMBRE-NEGRO-16,Alambre negro N 16,material,Acero,kg,7.00,6.00,8.50,PEN,03,Estructuras,Materiales,CAPECO,
+INS-PE-CLAVOS-2-5,Clavos 2 1/2 pulg,material,Acero,kg,6.50,5.50,8.00,PEN,,Carpinteria,Materiales,CAPECO,
+INS-PE-CLAVOS-3,Clavos 3 pulg,material,Acero,kg,6.50,5.50,8.00,PEN,,Carpinteria,Materiales,CAPECO,
+INS-PE-CLAVOS-4,Clavos 4 pulg,material,Acero,kg,7.00,6.00,8.50,PEN,,Carpinteria,Materiales,CAPECO,
+INS-PE-PERNOS-1-2,Pernos 1/2 pulg,material,Acero,und,1.50,1.20,2.00,PEN,,Estructuras Metalicas,Materiales,CAPECO,
+INS-PE-LADRILLO-KK-24x14x9,Ladrillo King Kong 24x14x9 cm,material,Albanileria,pza,1.20,1.00,1.50,PEN,17,Arquitectura,Materiales,CAPECO,
+INS-PE-LADRILLO-KK-25x12x10,Ladrillo King Kong 25x12x10 cm,material,Albanileria,pza,1.30,1.10,1.60,PEN,17,Arquitectura,Materiales,CAPECO,
+INS-PE-LADRILLO-PANDERETA,Ladrillo pandereta 24x12x6 cm,material,Albanileria,pza,0.80,0.65,1.00,PEN,17,Arquitectura,Materiales,CAPECO,
+INS-PE-LADRILLO-HUECO-15,Ladrillo hueco 15x30x30 cm,material,Albanileria,pza,3.20,2.70,3.90,PEN,17,Arquitectura,Materiales,CAPECO,
+INS-PE-LADRILLO-PASTELERO,Ladrillo pastelero 24x24 cm,material,Albanileria,pza,1.50,1.20,1.80,PEN,17,Arquitectura,Materiales,CAPECO,
+INS-PE-CERAMICO-60X60,Ceramico esmaltado 60x60 cm,material,Acabados,m2,28.00,18.00,40.00,PEN,24,Arquitectura,Materiales,CAPECO,
+INS-PE-MAYOLICA-15X15,Mayolica 15x15 cm 1ra calidad,material,Acabados,m2,30.00,22.00,40.00,PEN,24,Arquitectura,Materiales,CAPECO,
+INS-PE-MAYOLICA-11X11,Mayolica 11x11 cm,material,Acabados,m2,25.00,18.00,35.00,PEN,24,Arquitectura,Materiales,CAPECO,
+INS-PE-PORCELANATO,Porcelanato 60x60 cm,material,Acabados,m2,55.00,45.00,70.00,PEN,,Arquitectura,Materiales,CAPECO,
+INS-PE-MARMOL-TRAVERTINO,Marmol travertino,material,Acabados,m2,180.00,140.00,240.00,PEN,,Arquitectura,Materiales,CAPECO,
+INS-PE-PINTURA-ESMALTE,Pintura esmalte sintetico,material,Pinturas,gal,45.00,38.00,55.00,PEN,,Arquitectura,Materiales,CAPECO,
+INS-PE-PINTURA-LATEX,Pintura latex interiores,material,Pinturas,gal,35.00,28.00,45.00,PEN,,Arquitectura,Materiales,CAPECO,
+INS-PE-PINTURA-BARNIZ,Pintura barniz,material,Pinturas,gal,42.00,35.00,52.00,PEN,,Carpinteria,Materiales,CAPECO,
+INS-PE-IMPRIMANTE,Imprimante blanco,material,Pinturas,gal,38.00,30.00,48.00,PEN,,Arquitectura,Materiales,CAPECO,
+INS-PE-THINNER,Thinner,material,Pinturas,gal,18.00,15.00,24.00,PEN,,Arquitectura,Materiales,CAPECO,
+INS-PE-LIJA,Lija para metal N 80,material,Pinturas,und,2.50,1.80,3.50,PEN,,Arquitectura,Materiales,CAPECO,
+INS-PE-MADERA-TORNILLO,Madera tornillo,material,Maderas,p2,4.50,3.80,5.50,PEN,,Carpinteria,Materiales,CAPECO,
+INS-PE-MADERA-CEDRO,Madera cedro,material,Maderas,p2,6.00,5.00,7.50,PEN,,Carpinteria,Materiales,CAPECO,
+INS-PE-TRIPLAY,Triplay lupuna 4x8 pies 19mm,material,Maderas,pln,85.00,75.00,100.00,PEN,,Carpinteria,Materiales,CAPECO,
+INS-PE-ANDAMIO-MADERA,Andamio de madera,material,Maderas,p2,5.50,4.50,7.00,PEN,,Construccion,Materiales,CAPECO,
+INS-PE-TUBO-PVC-3-4,Tubo PVC 3/4 pulg,material,Tuberias,m,3.50,2.80,4.50,PEN,,Instalaciones Sanitarias,Materiales,CAPECO,
+INS-PE-ADITIVO-DESMOLDANTE,Aditivo desmoldante para encofrados,material,Aditivos,gal,32.00,25.00,40.00,PEN,,Concreto,Materiales,CAPECO,
+INS-PE-PEGAMENTO,Pegamento para ceramico,material,Aditivos,gal,25.00,20.00,32.00,PEN,,Arquitectura,Materiales,CAPECO,
+INS-PE-COLA-SINTETICA,Cola sintetica,material,Aditivos,gal,28.00,22.00,36.00,PEN,,Carpinteria,Materiales,CAPECO,
+INS-PE-ASFALTO-RC250,Asfalto RC-250,material,Aditivos,gal,18.00,15.00,22.00,PEN,13,Pavimentos,Materiales,CAPECO,
+INS-PE-BROCHA,Brocha plana 1.5 pulg,material,Varios,und,8.00,6.00,12.00,PEN,,Arquitectura,Materiales,CAPECO,
+INS-PE-OCRE,Ocre (pigmento),material,Varios,kg,3.50,2.50,5.00,PEN,,Arquitectura,Materiales,CAPECO,
+INS-PE-TIZA,Tiza (bolsa 30 kg),material,Varios,kg,0.40,0.30,0.50,PEN,,Arquitectura,Materiales,CAPECO,
+INS-PE-DIRECTOR-OBRA,Director de Obra (Residente),labor,Costos Indirectos,mes,7500.00,6500.00,9000.00,PEN,47,Administracion,Personal,CAPECO,
+INS-PE-SUPERVISOR,Supervisor General,labor,Costos Indirectos,mes,5500.00,5000.00,6500.00,PEN,47,Administracion,Personal,CAPECO,
+INS-PE-SECRETARIA,Secretaria de obra,labor,Costos Indirectos,mes,1200.00,900.00,1500.00,PEN,47,Administracion,Personal,CAPECO,
